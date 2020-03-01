@@ -1,6 +1,7 @@
 ## Welcome
 
-![](https://github.com/diegolescano/coronavirus/blob/master/coronavirus.gif)
+![](coronavirus.gif)
+![](name-of-giphy.gif)
 
 You can use the [editor on GitHub](https://github.com/diegolescano/coronavirus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
